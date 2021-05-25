@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="hint_pokemon">Ingrese un numero o id de pokemon</string>
+    <string name="error_pokemon_empty">Por favor ingrese un numero o id de pokemon</string>
+    <string name="pokemon_info">%d - %s</string>
+    <string name="error_not_found">No se encontro un Pokemon con el id o nombre</string>
+    <string name="text_asterisk">#</string>
+    <string name="text_chip_one">Grass</string>
+    <string name="text_chip_two">Fire</string>
+    <string name="string_id_def">1</string>
+    <string name="text_name_def">Pikachu</string>
+    <string name="text_fav_button">fav_button</string>
+    <string name="text_pokemon_image">pokemon_image</string>
+</resources>
